@@ -1,6 +1,6 @@
 # Volume Control App
 
-Android app to control volume when physical buttons are damaged.
+This app can control volume when the physical button is damaged.
 
 ## Download APK
-[Download App](app-debug.apk)
+https://github.com/prajwal9892/Volumecontrol/raw/master/app-debug.apk
